@@ -4,7 +4,14 @@ Created on Fri Aug 25 16:16:36 2023
 
 @author: LAB
 """
-
+'''
+9. Further, in the above question, find the income tax slab in which the employee lies.
+Gross Salary Income Tax
+< Rs. 3 LPA 0%
+Rs. 3,00,000 – Rs. 10,00,000 10% of the gross salary
+Rs. 10,00,000 – Rs. 25,00,000 20% of the gross salary
+Above Rs. 25,00,000 30% of the gross salary
+'''
 basic = float(input('type the basic salary:'))
 hra = basic/5
 ta = basic/20
