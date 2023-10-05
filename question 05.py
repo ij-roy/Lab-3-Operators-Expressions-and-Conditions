@@ -4,7 +4,11 @@ Created on Fri Aug 25 15:40:37 2023
 
 @author: LAB
 """
-
+'''
+5. Take a 5 digit number as input and print the reverse of the number. Do not use any in-built
+functions for reversing. Check whether the input number and the reversed number are the
+same. If so, print “Number is Palindrome”, else print “Number is not Palindrome”.
+'''
 m = int(input('type a 5 digit number'))
 q =m%10
 w =m//10
