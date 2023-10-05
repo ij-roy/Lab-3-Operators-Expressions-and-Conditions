@@ -4,6 +4,11 @@ Created on Fri Aug 25 15:03:38 2023
 
 @author: LAB
 """
+'''
+1. If the lengths of the two parallel sides of a trapezoid are X meters and Y meters, respectively,
+and the height is H meters, what is the area of the trapezoid? Write Python code to output the
+area by taking X, Y and H as input from the user.
+'''
 
 # que 1 formula of trapezoid
 X = int(input('length of the 1st parallel side:'))
